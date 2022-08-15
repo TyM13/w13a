@@ -4,7 +4,7 @@
   </footer>
 </template>
 
-<script>                  //(wont let me comment in most places) exports name so i can use the component. and styles content only for the footer component
+<script>                  //(wont let me comment in most places)styles content only for the footer component
 export default {          
   name: "footer-content",
 };
