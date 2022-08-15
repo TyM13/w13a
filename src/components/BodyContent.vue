@@ -46,7 +46,7 @@
   </article>
 </template>
 
-<script>
+<script>                            ////(wont let me comment in most places) styles content only for the body component
 export default {
   name: "body-content",
 };
